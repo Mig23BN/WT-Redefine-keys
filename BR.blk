@@ -62,7 +62,7 @@ controls{
     }
 
     ID_BOMBS_SERIES{
-      joyButton:i=1
+      joyButton:i=2
     }
 
     ID_CAMERA_COMMANDER{
